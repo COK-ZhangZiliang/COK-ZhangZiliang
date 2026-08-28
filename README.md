@@ -6,7 +6,7 @@
 
 ### About Me
 
-I am a second-year master student at the [Institute for Network Sciences and Cyberspace, Tsinghua University](https://www.insc.tsinghua.edu.cn/), advised by [Prof. Bo Wang](https://bowangthu.github.io/). My research focuses on **Stable Reinforcement Learning**, which aims to mitigate inconsistencies between training and inference engines so that long-horizon reinforcement learning training remains stable.
+I am a second-year master’s student at the [Institute for Network Sciences and Cyberspace, Tsinghua University](https://www.insc.tsinghua.edu.cn/), advised by [Prof. Bo Wang](https://bowangthu.github.io/). My research focuses on **Stable Reinforcement Learning**, with the goal of mitigating discrepancies between the training and inference engines, improving the stability of long-horizon reinforcement learning, and reducing the risk of training collapse.
 
 | My Skills | Kaggle Competitions |
 | --- | --- |
