@@ -1,10 +1,8 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-animated-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-animated-light.svg">
-    <img alt="Momo Ayase with animated psychic effects." src="./assets/profile-banner-animated-light.svg" width="460">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-animated-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-animated-light.svg">
+  <img align="right" alt="Momo Ayase with animated psychic effects." src="./assets/profile-banner-animated-light.svg" width="320">
+</picture>
 
 # Hi, I'm Ziliang!👋
 
@@ -12,7 +10,9 @@
 
 ## About Me
 
-I am a second-year master’s student at the [Institute for Network Sciences and Cyberspace, Tsinghua University](https://www.insc.tsinghua.edu.cn/), advised by [Prof. Bo Wang](https://www.insc.tsinghua.edu.cn/info/1157/2445.htm). My research focuses on **Stable Reinforcement Learning**, which aims to eliminate or mitigate inconsistencies between training and inference so that long-horizon reinforcement learning training remains stable and avoids collapse.
+I am a second-year master’s student at the [Institute for Network Sciences and Cyberspace, Tsinghua University](https://www.insc.tsinghua.edu.cn/), advised by [Prof. Bo Wang](https://bowangthu.github.io/). My research focuses on **Stable Reinforcement Learning**, which aims to eliminate or mitigate inconsistencies between training and inference so that long-horizon reinforcement learning training remains stable and avoids collapse.
+
+<br clear="right">
 
 ## My Skills
 
