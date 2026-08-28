@@ -1,4 +1,4 @@
-<img align="right" alt="Momo Ayase making a heart gesture." src="./assets/momo-heart-two-column-enlarged.svg" width="30%">
+<img align="right" alt="Momo Ayase making a heart gesture." src="./assets/momo-heart-two-column-proportional.svg" width="30%">
 
 ### Hi, I'm Ziliang! 👋
 
